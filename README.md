@@ -6,6 +6,10 @@ Lancez d'abord l'API pour tourner le projet.
 
 👉 N'oubliez pas d'installer les node_modules avec `yarn` pour tester le projet 👈
 
+[Pas ma version finale. Je continue de le pigmenter en local 😉]
+
+
+
 <img width="1439" alt="Capture d’écran 2023-06-02 à 00 25 26" src="https://github.com/Faithgg/React2_Shiny_Agency/assets/121299370/a56a9cc5-402d-4cad-b953-9275a3466b28">
 <img width="1439" alt="Capture d’écran 2023-06-02 à 00 25 45" src="https://github.com/Faithgg/React2_Shiny_Agency/assets/121299370/cc580bce-93e5-40df-900b-ce78e5d7896f">
 <img width="1439" alt="Capture d’écran 2023-06-02 à 00 26 25" src="https://github.com/Faithgg/React2_Shiny_Agency/assets/121299370/2213f833-d2dd-44ae-99d9-7fd7e60b82d4">
