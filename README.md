@@ -16,5 +16,7 @@ Lancez d'abord l'API pour tourner le projet.
 <img width="1439" alt="Capture d’écran 2023-06-02 à 00 26 44" src="https://github.com/Faithgg/React2_Shiny_Agency/assets/121299370/852c637f-438c-492a-81e7-d30c423296a2">
 <img width="1439" alt="Capture d’écran 2023-06-02 à 00 27 06" src="https://github.com/Faithgg/React2_Shiny_Agency/assets/121299370/c9a244ee-344a-482b-bef3-2664bbb2cc75">
 <img width="1439" alt="Capture d’écran 2023-06-02 à 00 27 27" src="https://github.com/Faithgg/React2_Shiny_Agency/assets/121299370/4d707dc6-33bf-4125-b36d-8b1d6b5bbb29">
+<img width="1439" alt="Capture d’écran 2023-06-02 à 14 59 42" src="https://github.com/Faithgg/React2_Shiny_Agency/assets/121299370/d4d67b55-e1b6-4485-b7fb-e4ad6bf8259c">
+<img width="1439" alt="Capture d’écran 2023-06-02 à 15 00 07" src="https://github.com/Faithgg/React2_Shiny_Agency/assets/121299370/ccfe67da-b49f-427f-9fc6-a3cd12f31dfc">
 
 [Pas ma version finale. Je continue de le pigmenter en local 😉]
