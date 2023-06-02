@@ -6,6 +6,9 @@ Lancez d'abord l'API pour tourner le projet.
 
 👉 N'oubliez pas d'installer les node_modules avec `yarn` pour tester le projet 👈
 
+### J'utilise dans ce projet :
+  - "styled components", une solution comunément appelé **CSS in JS** pour créer le style de mon site
+  - `ESLint` et `Prettier` pour gagner du temps en norme de code et détecter au mieux les sources d'erreurs (Ils sont utilisés en entreprise pour s'assurer que tout le monde fonctionne dans le même esprit et les mêmes normes de code; c'était l'ocasion pour moi de les tester et les ajouter à mes skills.)
 [Pas ma version finale. Je continue de le pigmenter en local 😉]
 
 
